@@ -27,8 +27,9 @@ Developed by:Ranjeeth B K
 Registeration Number :212222040132
 */
 ```
-```
-MainActivity.java
+# MainActivity.java
+```java
+
 package com.example.guicomponent;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -90,7 +91,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-activity_main.xml
+```
+# activity_main.xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
